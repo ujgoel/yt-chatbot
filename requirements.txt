@@ -1,0 +1,11 @@
+streamlit
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+fastembed
+youtube-transcript-api>=1.2.4
+python-dotenv
+httpx
+requests
